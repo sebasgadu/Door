@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Thu May  5 14:22:00 2016
+[*]
+[dumpfile] "/home/giovani/Documents/Digital_2/Project/sie/simulation/system_tb.vcd"
+[dumpfile_mtime] "Thu May  5 14:09:06 2016"
+[dumpfile_size] 57418676
+[savefile] "/home/giovani/Documents/Digital_2/Project/sie/system_tb.vcd.save.sav"
+[timestart] 227369000
+[size] 1301 744
+[pos] -302 -117
+*-18.000000 227960000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] system_tb.
+[treeopen] system_tb.dut.
+[sst_width] 223
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 211
+@28
+system_tb.dut.wb_i2c0.i2c_sdat
+system_tb.dut.wb_i2c0.i2c_sclk
+system_tb.dut.wb_i2c0.wb_wr
+system_tb.dut.wb_i2c0.done
+system_tb.dut.wb_i2c0.start_i2c_signal
+system_tb.dut.wb_i2c0.wb_stb_i
+@29
+system_tb.dut.wb_i2c0.wb_rd
+@22
+system_tb.dut.wb_i2c0.wb_adr_i[31:0]
+system_tb.dut.wb_i2c0.wb_dat_o[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
